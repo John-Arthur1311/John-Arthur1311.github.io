@@ -1,3 +1,5 @@
+**Note:** This branch (`main`) contains the source code and is the active development branch. The `Final-Deployment` branch is used for deployment-ready publishing.
+
 # Juan A. Colón Norat — Professional Portfolio Website
 
 ## Description
