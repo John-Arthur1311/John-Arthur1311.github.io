@@ -10,6 +10,13 @@ This repository contains the source code for the personal portfolio website of *
 - Academic-professional layout with creative tone
 - SEO-friendly structure and meta information
 - Modular and maintainable codebase ready for GitHub Pages, Netlify, or Vercel
+- Expanded Education and Professional Experience sections to showcase academic and professional background
+
+## Project Structure
+- `index.html` — Main landing page with all sections (Home, About, Education, Research, Teaching, Professional Experience, Projects, Contact)
+- `styles/main.css` — Core styles and responsive rules
+- `js/main.js` — Minimal interaction (mobile nav, smooth scroll, contact form stub)
+- `images/` — Placeholder images and illustrations
 
 ## Tech Stack (Placeholders)
 - Framework: HTML / CSS / JavaScript (static)
