@@ -45,7 +45,7 @@ For more advanced local development, consider running a simple static server (e.
 - Change the accent color and typography in `styles/main.css` to reflect your branding.
 
 ## Deployment
-This site is ready for static hosting platforms. For GitHub Pages set the repository to publish the `main` branch (or `gh-pages` branch if preferred).
+This site is ready for static hosting platforms. For GitHub Pages set the repository to publish the `gh-pages` branch (or use the `Final-Deployment` branch). An automated GitHub Actions workflow (`.github/workflows/deploy-pages.yml`) deploys the repository to GitHub Pages whenever changes are pushed to `main` or `Final-Deployment`.
 
 ## License
 © Juan A. Colón Norat — All rights reserved.
